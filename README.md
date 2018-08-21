@@ -20,3 +20,10 @@ Resumen :
 * Grid Area, 4 cuadritos.
 * Grid Track, fila o columna de cuadritos.
 * Grid Line, linea que divide a los cuadritos.
+
+
+
+__Grid explicito (explicit grid) :__ es cuando nosotros definimos el numero de filas o columnas.
+
+
+__Grid implicito (implicit grid) :__ es cuando tenemos filas o columnas que no definimos pero son parte de nuestro grid.
